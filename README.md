@@ -16,6 +16,8 @@ Note: This module **does not** work in Expo.
 
 ```sh
 npm install @angelcat/rn-pdf-thumbnail
+# or
+yarn add @angelcat/rn-pdf-thumbnail
 ```
 
 ## Usage
